@@ -25,5 +25,6 @@ My list of things related to software, literature, and other content related to 
 ## Literature
 ### Peer-Reviewed Publications
 * [RFC7089](https://tools.ietf.org/html/rfc7089) - HTTP Framework for Time-Based Access to Resource States -- Memento
+
 ### Blog Posts
-*
+* &nbsp;
