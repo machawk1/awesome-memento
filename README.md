@@ -1,5 +1,5 @@
 # awesome-memento
-My list of things related to software, literature, and other content related to Memento (RFC7089).
+My list of things related to software, literature, and other content for Memento ([RFC7089](https://tools.ietf.org/html/rfc7089)).
 
 ## Software
 ### Web Browser Extensions
