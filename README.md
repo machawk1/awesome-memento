@@ -13,6 +13,7 @@ My list of things related to software, literature, and other content related to 
 
 ### Command-line Clients
 * py-memento-client ([src](https://github.com/mementoweb/py-memento-client)) - Python-client to interface with Memento entities.
+* [mcurl](https://ws-dl.blogspot.it/2013/05/2013-05-29-mcurl-command-line-memento.html) ([src](https://github.com/aalsum/mcurl)) - Command Line Memento Client (perl)
 
 ### Server-side Enabler
 * TimeGate ([src](https://github.com/mementoweb/timegate)) - Python and uwsgi script to intercept requests for resource to make them Memento-compatible.
