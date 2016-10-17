@@ -18,6 +18,9 @@ My list of things related to software, literature, and other content related to 
 ### Server-side Enabler
 * TimeGate ([src](https://github.com/mementoweb/timegate)) - Python and uwsgi script to intercept requests for resource to make them Memento-compatible.
 * MemGator ([src](https://github.com/oduwsdl/memgator)) - Memento Aggregator written in Go.
+* django-memento-framework ([src](https://github.com/pastpages/django-memento-framework)) - Add Memento support to [Django](https://www.djangoproject.com/) applications.
+* wordpress-memento-plugin - ([src](https://github.com/pastpages/wordpress-memento-plugin)) - Add Memento support to [WordPress](https://wordpress.com/) sites.
+* invenio-memento - ([src](https://github.com/inveniosoftware/invenio-memento)) - Add Memento support to [Invenio](http://invenio-software.org/) sites.
 
 ### Web Archive Replay
 * OpenWayback ([src](https://github.com/iipc/openwayback)) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
