@@ -28,6 +28,7 @@ My list of things related to software, literature, and other content for Memento
 ### Web Archive Replay
 * OpenWayback ([src](https://github.com/iipc/openwayback)) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
 * pywb ([src](https://github.com/ikreymer/pywb)) - Python-based replay engine.
+* ipwb ([src](https://github.com/oduwsdl/ipwb])) - InterPlanetary Wayback - A distributed and persistent archive replay system using IPFS.
 
 ## Literature
 ### Peer-Reviewed Publications
@@ -39,6 +40,8 @@ My list of things related to software, literature, and other content for Memento
 * [Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento](http://dl.acm.org/citation.cfm?id=2740872) - M. Kelly et al. - JCDL - September 2014
 * [Not All Mementos Are Created Equal: Measuring The Impact Of Missing Resources](http://dl.acm.org/citation.cfm?id=2740826) - Brunelle et al. - JCDL - September 2014
 * [Evaluating sliding and sticky target policies by measuring temporal drift in acyclic walks through a web archive](http://link.springer.com/article/10.1007/s00799-014-0120-4) - S. Ainsworth and M. Nelson - IJDL - August 2014
+* [InterPlanetary Wayback: The Permanent Web Archive](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7559620) - S. Alam et. al.
+* [InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives](http://link.springer.com/chapter/10.1007%2F978-3-319-43997-6_35) - M. Kelly et. al. ([presentation slides](http://www.slideshare.net/ibnesayeed/interplanetary-wayback-peertopeer-permanence-of-web-archives)).
 
 ### Blog Posts
 * &nbsp;
