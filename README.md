@@ -3,13 +3,13 @@ My list of things related to software, literature, and other content for Memento
 
 ## Software
 ### Web Browser Extensions
-* Memento Time Travel - Google Chrome extension ([WebStore](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm), [source](https://github.com/mementoweb/memento_chrome))
-* MementoFox - Firefox Add-On ([Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), source?, deprecated)
-* Mink - Google Chrome Extension ([Add-On Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem), [source](https://github.com/machawk1/mink))
+* Memento Time Travel - Google Chrome extension ([WebStore](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm), [src](https://github.com/mementoweb/memento_chrome))
+* MementoFox - Firefox Add-On ([Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), src?, deprecated)
+* Mink - Google Chrome Extension ([Add-On Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem), [src](https://github.com/machawk1/mink))
 
 ### Mobile Apps
-* Memento-Browser - View web archives in the time dimension on Android ([Google Play Store](https://play.google.com/store/apps/details?id=dev.memento&hl=en), [source](https://github.com/machawk1/mementobrowser-android))
-* MementoBrowser-ios - View web archives in the time on iOS ([source](https://github.com/machawk1/mementobrowser-ios))
+* Memento-Browser - View web archives in the time dimension on Android ([Google Play Store](https://play.google.com/store/apps/details?id=dev.memento&hl=en), [src](https://github.com/machawk1/mementobrowser-android))
+* MementoBrowser-ios - View web archives in the time on iOS ([src](https://github.com/machawk1/mementobrowser-ios))
 
 ### Command-line Clients
 * py-memento-client ([src](https://github.com/mementoweb/py-memento-client)) - Python-client to interface with Memento entities.
