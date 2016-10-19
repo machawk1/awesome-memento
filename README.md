@@ -4,7 +4,7 @@ My list of things related to software, literature, and other content for Memento
 ## Software
 ### Web Browser Extensions
 * Memento Time Travel - Google Chrome extension ([WebStore](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm), [src](https://github.com/mementoweb/memento_chrome))
-* MementoFox - Firefox Add-On ([Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), src?, deprecated)
+* MementoFox - Firefox Add-On ([Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), [src](https://code.google.com/archive/p/mementofox/), deprecated)
 * Mink - Google Chrome Extension ([Add-On Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem), [src](https://github.com/machawk1/mink))
 
 ### Mobile Apps
