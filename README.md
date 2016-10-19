@@ -4,7 +4,7 @@ My list of things related to software, literature, and other content for Memento
 ## Software
 ### Web Browser Extensions
 * Memento Time Travel - Google Chrome extension ([WebStore](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm), [source](https://github.com/mementoweb/memento_chrome))
-* MementoFox - Firefox Add-On ([Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), src?)
+* MementoFox - Firefox Add-On ([Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), Deprecated, not maintained anymore)
 * Mink - Google Chrome Extension ([Add-On Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem), [source](https://github.com/machawk1/mink))
 
 ### Mobile Apps
@@ -23,7 +23,11 @@ My list of things related to software, literature, and other content for Memento
 * django-memento-framework ([src](https://github.com/pastpages/django-memento-framework)) - Add Memento support to [Django](https://www.djangoproject.com/) applications.
 * wordpress-memento-plugin - ([src](https://github.com/pastpages/wordpress-memento-plugin)) - Add Memento support to [WordPress](https://wordpress.com/) sites.
 * invenio-memento - ([src](https://github.com/inveniosoftware/invenio-memento)) - Add Memento support to [Invenio](http://invenio-software.org/) sites.
-* mementoweb - ([npm](https://www.npmjs.com/package/mementoweb)) - JavaScript module to add Memento functionality to [Express](http://expressjs.com/) projects
+* mementoweb - ([npm](https://www.npmjs.com/package/mementoweb)) - JavaScript module to add Memento functionality to [Express](http://expressjs.com/) projects.
+* MediaWiki Extensions - Add Memento support to [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) instances: 
+  * [Extension: Memento](https://www.mediawiki.org/wiki/Extension:Memento) - Provides complete Memento support. 
+  * [Extension: MementoHeaders](https://www.mediawiki.org/wiki/Extension:MementoHeaders) - Provides only the necessary HTTP headers for minimal Memento support.
+* Linked Data - [Apache Marmotta](http://marmotta.apache.org/), an open implementation of the W3C Linked Data Platform specification, which supports versioning and access to versions compliant with the Memento protocol.
 
 ### Web Archive Replay
 * OpenWayback ([src](https://github.com/iipc/openwayback)) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
