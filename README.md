@@ -3,9 +3,9 @@ My list of things related to software, literature, and other content for Memento
 
 ## Software
 ### Web Browser Extensions
-* Memento Time Travel - Google Chrome extension ([WebStore](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm), [src](https://github.com/mementoweb/memento_chrome))
-* MementoFox - Firefox Add-On ([Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), [src](https://code.google.com/archive/p/mementofox/), deprecated)
-* Mink - Google Chrome Extension ([Add-On Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem), [src](https://github.com/machawk1/mink))
+* Memento Time Travel - Google Chrome extension ([src](https://github.com/mementoweb/memento_chrome), [WebStore](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm))
+* MementoFox - Firefox Add-On ([src](https://code.google.com/archive/p/mementofox/), [Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/mementofox/), deprecated)
+* Mink - Google Chrome Extension ([src](https://github.com/machawk1/mink), [Add-On Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem))
 
 ### Mobile Apps
 * Memento-Browser - View web archives in the time dimension on Android ([Google Play Store](https://play.google.com/store/apps/details?id=dev.memento&hl=en), [src](https://github.com/machawk1/mementobrowser-android))
