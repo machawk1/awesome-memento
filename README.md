@@ -46,4 +46,11 @@ My list of things related to software, literature, and other content for Memento
 * [Evaluating sliding and sticky target policies by measuring temporal drift in acyclic walks through a web archive](http://link.springer.com/article/10.1007/s00799-014-0120-4) - S. Ainsworth and M. Nelson - IJDL - August 2014
 
 ### Blog Posts
-* &nbsp;
+* November 1, 2016 - [Fixing broken links in Wikipedia](http://blog.dshr.org/2016/11/fixing-broken-links-in-wikipedia.html) 
+* September 6, 2016 - [Memento at W3C](http://blog.dshr.org/2016/09/memento-at-w3c.html)
+* August 25, 2016 - [Evanescent Web Archives](http://blog.dshr.org/2016/08/evanescent-web-archives.html)
+* August 23, 2016 - [Content Negotiation and Memento](http://blog.dshr.org/2016/08/content-negotiation-and-memento.html)
+* January 8, 2016 - [Aggregating Web Archives](http://blog.dshr.org/2016/01/aggregating-web-archives.html)
+* April 23, 2013 - [Making Memento Successful](http://blog.dshr.org/2013/04/making-memento-succesful.html)
+* March 5, 2013 - [Re-thinking Memento Aggregation](http://blog.dshr.org/2013/03/re-thinking-memento-aggregation.html)
+* January 3, 2011 - [Memento & the Marketplace for Archiving](http://blog.dshr.org/2011/01/memento-marketplace-for-archiving.html)
