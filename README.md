@@ -8,7 +8,7 @@ My list of things related to software, literature, and other content for Memento
 * Mink - Google Chrome Extension ([src](https://github.com/machawk1/mink), [Add-On Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem))
 
 ### Mobile Apps
-* Memento-Browser - View web archives in the time dimension on Android ([Google Play Store](https://play.google.com/store/apps/details?id=dev.memento&hl=en), [src](https://github.com/machawk1/mementobrowser-android))
+* Memento-Browser - View web archives in the time dimension on Android ([src](https://github.com/machawk1/mementobrowser-android))
 * MementoBrowser-ios - View web archives in the time on iOS ([src](https://github.com/machawk1/mementobrowser-ios))
 * Mobile Mink - View and create archived versions of mobile and desktop pages on Android ([src](https://github.com/thing342/mobilememento))
 
