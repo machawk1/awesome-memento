@@ -37,7 +37,9 @@ My list of things related to software, literature, and other content for Memento
 ## Literature
 ### Peer-Reviewed Publications
 * [RFC7089](https://tools.ietf.org/html/rfc7089) - HTTP Framework for Time-Based Access to Resource States -- Memento
-* [Detecting off-topic pages within TimeMaps in Web archives](http://link.springer.com/article/10.1007/s00799-016-0183-5) - Y. Anwar et al. - IJDL - July 2016
+* [Impact of URI Canonicalization on Memento Count](http://ieeexplore.ieee.org/abstract/document/7991601/) - Kelly et al. - JCDL - June 2017
+* [Detecting off-topic pages within TimeMaps in Web archives](http://link.springer.com/article/10.1007/s00799-016-0183-5) - Y. Anwar et al. - IJDL - July 2016 - Bornand et al. - JCDL - June 2016
+* [Routing memento requests using binary classifiers](http://ieeexplore.ieee.org/abstract/document/7559566/)
 * [MemGator - A Portable Concurrent Memento Aggregator: Cross-Platform CLI and Server Binaries in Go](http://dl.acm.org/citation.cfm?id=2925452) - S. Alam and M. Nelson - JCDL - June 2016
 * [Routing Memento Requests Using Binary Classifiers](http://dl.acm.org/citation.cfm?id=2910899) - 	N. Bornand et al. - JCDL - June 2016
 * [Only One Out of Five Archived Web Pages Existed as Presented](http://dl.acm.org/citation.cfm?id=2791044) - S. Ainsworth et al. - Hypertext - September 2015
