@@ -10,7 +10,7 @@ My list of things related to software, literature, and other content for Memento
 ### Mobile Apps
 * Memento-Browser - View web archives in the time dimension on Android ([src](https://github.com/machawk1/mementobrowser-android))
 * MementoBrowser-ios - View web archives in the time on iOS ([src](https://github.com/machawk1/mementobrowser-ios))
-* Mobile Mink - View and create archived versions of mobile and desktop pages on Android ([src](https://github.com/thing342/mobilememento))
+* Mobile Mink - View and create archived versions of mobile and desktop pages on Android ([src](https://github.com/oduwsdl/mobilemink))
 
 ### Command-line Clients
 * py-memento-client ([src](https://github.com/mementoweb/py-memento-client)) - Python-client to interface with Memento entities.
