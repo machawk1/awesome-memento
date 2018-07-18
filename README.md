@@ -49,6 +49,7 @@ My list of things related to software, literature, and other content for Memento
 * [Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento](http://dl.acm.org/citation.cfm?id=2740872) - M. Kelly et al. - JCDL - September 2014
 * [Not All Mementos Are Created Equal: Measuring The Impact Of Missing Resources](http://dl.acm.org/citation.cfm?id=2740826) - Brunelle et al. - JCDL - September 2014
 * [Evaluating sliding and sticky target policies by measuring temporal drift in acyclic walks through a web archive](http://link.springer.com/article/10.1007/s00799-014-0120-4) - S. Ainsworth and M. Nelson - IJDL - August 2014
+* [Global Web Archive Integration with Memento](https://dl.acm.org/citation.cfm?doid=2232817.2232900) - R. Sanderson - JCDL - June 2012
 
 ### Blog Posts
 * November 1, 2016 - [Fixing broken links in Wikipedia](http://blog.dshr.org/2016/11/fixing-broken-links-in-wikipedia.html) 
