@@ -19,6 +19,7 @@ My list of things related to software, literature, and other content for Memento
 * archive.is - ([src](https://github.com/qvint/archive.is), [npm](https://www.npmjs.com/package/archive.is)) - Memento-based API for [archive.is](http://archive.is/) in JavaScript
 
 ### Server-side Enabler
+* Memento Tracer ([site](http://tracer.mementoweb.org/), no public prototype) - server-side processor to capture web publications for archival purposes.
 * TimeGate ([src](https://github.com/mementoweb/timegate)) - Python and uwsgi script to intercept requests for resource to make them Memento-compatible.
 * MemGator ([src](https://github.com/oduwsdl/memgator)) - Memento Aggregator written in Go.
 * django-memento-framework ([src](https://github.com/pastpages/django-memento-framework)) - Add Memento support to [Django](https://www.djangoproject.com/) applications.
