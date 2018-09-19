@@ -35,7 +35,7 @@ My list of things related to software, literature, and other content for Memento
 
 ### Web Archive Replay
 * OpenWayback ([src](https://github.com/iipc/openwayback)) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
-* pywb ([src](https://github.com/ikreymer/pywb)) - Python-based replay engine.
+* pywb ([src](https://github.com/webrecorder/pywb)) - Python-based replay engine.
 * InterPlanetary Wayback (ipwb) ([src](https://github.com/oduwsdl/ipwb)) - Integration of WARCs with IPFS, supports Memento in bundled replay system.
 
 ## Literature
