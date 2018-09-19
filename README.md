@@ -41,6 +41,7 @@ My list of things related to software, literature, and other content for Memento
 ## Literature
 ### Peer-Reviewed Publications
 * [RFC7089](https://tools.ietf.org/html/rfc7089) - HTTP Framework for Time-Based Access to Resource States -- Memento
+* [The Off-Topic Memento Toolkit](https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-jones-off-topic.pdf) - S. Jones et al. - iPres - September 2018
 * [A Framework for Aggregating Private and Public Web Archives](https://dl.acm.org/citation.cfm?id=3197045) - M. Kelly et al. - JCDL - June 2018
 * [Focused Crawl of Web Archives to Build Event Collections](https://dl.acm.org/citation.cfm?id=3201085) - M. Klein et al.
 * [Impact of URI Canonicalization on Memento Count](http://ieeexplore.ieee.org/abstract/document/7991601/) - M. Kelly et al. - JCDL - June 2017
