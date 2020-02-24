@@ -54,10 +54,13 @@ A list of things related to software, literature, and other content for Memento 
 ### Peer-Reviewed Publications
 * [RFC7089](https://tools.ietf.org/html/rfc7089) - HTTP Framework for Time-Based Access to Resource States -- Memento.
 * [The Off-Topic Memento Toolkit](https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-jones-off-topic.pdf) - S. Jones et al. - iPres - September 2018.
+* [InterPlanetary Wayback: The Next Step Towards Decentralized Web Archiving](https://www.slideshare.net/ibnesayeed/interplanetary-wayback-the-next-step-towards-decentralized-web-archiving-108525567) - S. Alam et al. - Decentralized Web Summit and IPFS Lab Day - August 2018.
 * [A Framework for Aggregating Private and Public Web Archives](https://dl.acm.org/citation.cfm?id=3197045) - M. Kelly et al. - JCDL - June 2018.
 * [Focused Crawl of Web Archives to Build Event Collections](https://dl.acm.org/citation.cfm?id=3201085) - M. Klein et al.
 * [Impact of URI Canonicalization on Memento Count](http://ieeexplore.ieee.org/abstract/document/7991601/) - M. Kelly et al. - JCDL - June 2017.
+* [InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives](https://doi.org/10.1007/978-3-319-43997-6_35) - M. Kelly et al. - TPDL - August 2016 ([presentation slides](http://www.slideshare.net/ibnesayeed/interplanetary-wayback-peertopeer-permanence-of-web-archives)).
 * [Detecting off-topic pages within TimeMaps in Web archives](http://link.springer.com/article/10.1007/s00799-016-0183-5) - Y. Anwar et al. - IJDL - July 2016.
+* [InterPlanetary Wayback: The Permanent Web Archive](https://dx.doi.org/10.1145/2910896.2925467) - S. Alam et al. - JCDL - June 2016.
 * [MemGator - A Portable Concurrent Memento Aggregator: Cross-Platform CLI and Server Binaries in Go](http://dl.acm.org/citation.cfm?id=2925452) - S. Alam and M. Nelson - JCDL - June 2016.
 * [Routing Memento Requests Using Binary Classifiers](http://dl.acm.org/citation.cfm?id=2910899) - N. Bornand et al. - JCDL - June 2016.
 * [Only One Out of Five Archived Web Pages Existed as Presented](http://dl.acm.org/citation.cfm?id=2791044) - S. Ainsworth et al. - Hypertext - September 2015.
