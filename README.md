@@ -1,5 +1,5 @@
 # Awesome Memento [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-My list of things related to software, literature, and other content for Memento ([RFC7089](https://tools.ietf.org/html/rfc7089)).
+A list of things related to software, literature, and other content for Memento ([RFC7089](https://tools.ietf.org/html/rfc7089)).
 
 ## Contents
 
