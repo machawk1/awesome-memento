@@ -11,6 +11,7 @@ A list of things related to software, literature, and other content for Memento 
   * [Command-line Clients](#command-line-clients)
   * [Server-side Enablers](#server-side-enablers)
   * [Web Archive Replay](#web-archive-replay)
+  * [Additional Tools](#additional-tools)
 * [Literature](#literature)
   * [Peer-Reviewed Publications](#peer-reviewed-publications)
   * [Blog Posts](#blog-posts)
