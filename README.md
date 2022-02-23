@@ -52,6 +52,9 @@ A list of things related to software, literature, and other content for Memento 
 * pywb ([src](https://github.com/webrecorder/pywb)) - Python-based replay engine.
 * InterPlanetary Wayback (ipwb) ([src](https://github.com/oduwsdl/ipwb)) - Integration of WARCs with IPFS, supports Memento in bundled replay system.
 
+### Additional Tools
+* Comunica ([src](https://github.com/comunica/comunica)) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195).
+
 ## Literature
 ### Peer-Reviewed Publications
 * [IETF RFC7089](https://www.rfc-editor.org/rfc/rfc7089) - HTTP Framework for Time-Based Access to Resource States -- Memento.
