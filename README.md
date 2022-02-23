@@ -52,8 +52,12 @@ A list of things related to software, literature, and other content for Memento 
 
 ## Literature
 ### Peer-Reviewed Publications
-<!--lint ignore awesome-list-item-->
+
+<!--lint disable awesome-list-item-->
+
 * [RFC7089](https://tools.ietf.org/html/rfc7089) - HTTP Framework for Time-Based Access to Resource States -- Memento.
+ 
+<!--lint enable awesome-list-item-->
 
 * [Interoperability for Accessing Versions of Web Resources with the Memento Protocol](https://sobre.arquivo.pt/wp-content/uploads/The-Past-Web_-exploring-web-archives-preprint.pdf#page=123) - S. Jones et al. - The Past Web - 2021.
 * [The Off-Topic Memento Toolkit](https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-jones-off-topic.pdf) - S. Jones et al. - iPres - September 2018.
