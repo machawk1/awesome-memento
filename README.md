@@ -32,6 +32,7 @@ A list of things related to software, literature, and other content for Memento 
 * mcurl ([src](https://github.com/aalsum/mcurl)) - Command Line Memento Client (perl)
 * memento-client ([src](https://github.com/jarofghosts/memento-client), [npm](https://www.npmjs.com/package/memento-client)) - JavaScript client to interface with Memento services
 * archive.is - ([src](https://github.com/qvint/archive.is), [npm](https://www.npmjs.com/package/archive.is)) - Memento-based API for [archive.is](http://archive.is/) in JavaScript
+* memento-cli - ([src](https://github.com/edsu/memento-cli)) - A command line tool interacting with Memento (RFC 7089) supporting web archives, such as the Internet Archive's Wayback Machine
 
 ### Server-side Enablers
 * django-memento-framework ([src](https://github.com/pastpages/django-memento-framework)) - Add Memento support to [Django](https://www.djangoproject.com/) applications.
