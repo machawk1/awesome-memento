@@ -59,6 +59,7 @@ A list of things related to software, literature, and other content for Memento 
 
 ## Literature
 ### Peer-Reviewed Publications
+* [You Call This Archaeology? Evaluating Web Archives for Reproducible Web Security Measurements](https://swag.cispa.saarland/papers/hantke2023archaeology.pdf) F. Hantke et al. - ACM CCS - 2023.
 * [IETF RFC7089](https://www.rfc-editor.org/rfc/rfc7089) - HTTP Framework for Time-Based Access to Resource States -- Memento.
 * [Interoperability for Accessing Versions of Web Resources with the Memento Protocol](https://sobre.arquivo.pt/wp-content/uploads/The-Past-Web_-exploring-web-archives-preprint.pdf#page=123) - S. Jones et al. - The Past Web - 2021.
 * [HTTP Extensions for the Management of Highly Dynamic Data Resources](https://link.springer.com/chapter/10.1007/978-3-030-77385-4_13) - L. Gleim et al. - ESWC - May 2021.
