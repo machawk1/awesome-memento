@@ -56,6 +56,7 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Additional Tools
 * Comunica ([src](https://github.com/comunica/comunica)) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195).
+* Memento Validator ([src](https://github.com/lanl/memento-validator)) - Memento validator toolkit lets you validate your Memento implementation
 
 ## Literature
 ### Peer-Reviewed Publications
