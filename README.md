@@ -82,6 +82,7 @@ A list of things related to software, literature, and other content for Memento 
 * [Global Web Archive Integration with Memento](https://dl.acm.org/citation.cfm?doid=2232817.2232900) - R. Sanderson - JCDL - June 2012.
 
 ### Blog Posts
+* September 20, 2025 - [Some URLs Are Immortal, Most Are Ephemeral](https://ws-dl.blogspot.com/2024/09/2024-09-20-some-urls-are-immortal-most.html)
 * November 1, 2016 - [Fixing broken links in Wikipedia](http://blog.dshr.org/2016/11/fixing-broken-links-in-wikipedia.html) 
 * September 6, 2016 - [Memento at W3C](http://blog.dshr.org/2016/09/memento-at-w3c.html)
 * August 25, 2016 - [Evanescent Web Archives](http://blog.dshr.org/2016/08/evanescent-web-archives.html)
