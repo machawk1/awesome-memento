@@ -33,6 +33,7 @@ A list of things related to software, literature, and other content for Memento 
 * memento-client ([src](https://github.com/jarofghosts/memento-client), [npm](https://www.npmjs.com/package/memento-client)) - JavaScript client to interface with Memento services
 * archive.is - ([src](https://github.com/qvint/archive.is), [npm](https://www.npmjs.com/package/archive.is)) - Memento-based API for [archive.is](http://archive.is/) in JavaScript
 * memento-cli - ([src](https://github.com/edsu/memento-cli)) - A command line tool interacting with Memento (RFC 7089) supporting web archives, such as the Internet Archive's Wayback Machine
+* Wasteback Machine - ([src](https://github.com/overbrowsing/wasteback-machine), [npm](https://www.npmjs.com/package/@overbrowsing/wasteback-machine)) - JavaScript library for analysing archived web pages, measuring their size and composition to support retrospective, quantitative web research
 
 ### Server-side Enablers
 * django-memento-framework ([src](https://github.com/pastpages/django-memento-framework)) - Add Memento support to [Django](https://www.djangoproject.com/) applications.
