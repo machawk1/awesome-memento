@@ -24,16 +24,16 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Mobile Apps
 * Memento-Browser - View web archives in the time dimension on Android ([src](https://github.com/machawk1/mementobrowser-android))
-* MementoBrowser-ios - View web archives in the time on iOS ([src](https://github.com/machawk1/mementobrowser-ios))
+* MementoBrowser-ios - View web archives in the time dimension on iOS ([src](https://github.com/machawk1/mementobrowser-ios))
 * Mobile Mink - View and create archived versions of mobile and desktop pages on Android ([src](https://github.com/oduwsdl/mobilemink))
 
 ### Command-line Clients
-* py-memento-client ([src](https://github.com/mementoweb/py-memento-client)) - Python-client to interface with Memento entities.
+* py-memento-client ([src](https://github.com/mementoweb/py-memento-client)) - Python client to interface with Memento entities.
 * mcurl ([src](https://github.com/aalsum/mcurl)) - Command Line Memento Client (perl)
 * memento-client ([src](https://github.com/jarofghosts/memento-client), [npm](https://www.npmjs.com/package/memento-client)) - JavaScript client to interface with Memento services
 * archive.is - ([src](https://github.com/qvint/archive.is), [npm](https://www.npmjs.com/package/archive.is)) - Memento-based API for [archive.is](http://archive.is/) in JavaScript
 * memento-cli - ([src](https://github.com/edsu/memento-cli)) - A command line tool interacting with Memento (RFC 7089) supporting web archives, such as the Internet Archive's Wayback Machine
-* Wasteback Machine - ([src](https://github.com/overbrowsing/wasteback-machine), [npm](https://www.npmjs.com/package/@overbrowsing/wasteback-machine)) - JavaScript library for analysing archived web pages, measuring their size and composition to support retrospective, quantitative web research
+* Wasteback Machine - ([src](https://github.com/overbrowsing/wasteback-machine), [npm](https://www.npmjs.com/package/@overbrowsing/wasteback-machine)) - JavaScript library for analyzing archived web pages, measuring their size and composition to support retrospective, quantitative web research
 
 ### Server-side Enablers
 * django-memento-framework ([src](https://github.com/pastpages/django-memento-framework)) - Add Memento support to [Django](https://www.djangoproject.com/) applications.
@@ -47,7 +47,7 @@ A list of things related to software, literature, and other content for Memento 
 * Memento Tracer ([site](http://tracer.mementoweb.org/), no public prototype) - server-side processor to capture web publications for archival purposes.
 * mementoweb - ([npm](https://www.npmjs.com/package/mementoweb)) - JavaScript module to add Memento functionality to [Express](http://expressjs.com/) projects.
 * MemGator ([src](https://github.com/oduwsdl/memgator)) - Memento Aggregator written in Go.
-* TimeGate ([src](https://github.com/mementoweb/timegate)) - Python and uwsgi script to intercept requests for resource to make them Memento-compatible.
+* TimeGate ([src](https://github.com/mementoweb/timegate)) - Python and uWSGI script to intercept requests for resources to make them Memento-compatible.
 * TimeStitch Memento Aggregator ([src](https://github.com/lanl/TimeStitch-Memento-Aggregator)) - Memento Aggregator written in Go from Los Alamos National Laboratory.
 * wordpress-memento-plugin - ([src](https://github.com/pastpages/wordpress-memento-plugin)) - Add Memento support to [WordPress](https://wordpress.com/) sites.
 
