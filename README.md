@@ -21,6 +21,7 @@ A list of things related to software, literature, and other content for Memento 
 * Memento Time Travel - Google Chrome extension and Mozilla Firefox Add-On ([src](https://github.com/mementoweb/memento_chrome), [Web Store](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm), [Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/memento-timetravel/))
 * MementoFox - Firefox Add-On ([src](https://code.google.com/archive/p/mementofox/), deprecated)
 * Mink - Google Chrome Extension ([src](https://github.com/machawk1/mink), [Web Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem))
+* PastPage - Google Chrome extension and Mozilla Firefox Add-On for recovering broken or changed pages from the Wayback Machine and other web archives ([src](https://github.com/nabertronic/pastpage), [Web Store](https://chromewebstore.google.com/detail/pastpage-query-10+-web-ar/icpegbecignmplpkjjcegmjmfadpcpoo), [Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/pastpage-query-10-web-archives/))
 
 ### Mobile Apps
 * Memento-Browser - View web archives in the time dimension on Android ([src](https://github.com/machawk1/mementobrowser-android))
